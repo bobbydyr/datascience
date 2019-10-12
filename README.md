@@ -12,4 +12,4 @@
 [User churn prediction](ml/ml_project/Supervised_Learning_Project.ipynb)
 
 
-[ecommerce](e-Commerce.docs)
+[Turing paper](one.pdf)
