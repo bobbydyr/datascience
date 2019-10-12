@@ -1,10 +1,10 @@
 # Interesting Tableau Visualizations
 
-
-#### This is a really Interesting tree map and show the profitability of selected startups in Australia. There are 5 sets and 3 parameters. And also tones of calculated fields.
+(I have done these interesting projects during the online course.)
+#### This is a really Interesting tree map and show the profitability of selected startups in Australia. There are 5 sets and 3 parameters. And also tones of calculated fields that make the visualization more flexible.
 ![](Tree_map_show_highest_growth.png)
 
-#### This is a Visualization comparing the target revenue and and actual Revenue. In the upper histogram, the bins means the actual revenue, the mass area represents the target revenue. This is a dual axis chart and the below one represents the excess amount. 
+#### This is a Visualization comparing the target revenue and and actual Revenue. In the upper histogram, the bins means the actual revenue, the mass area represents the target revenue. This is a dual axis chart and the below one represents the excess amount.
 ![](Actual_Sale_with_target.png)
 
 #### This is a animation Visualizations that describes the change of life expectancy with years for different countries.
