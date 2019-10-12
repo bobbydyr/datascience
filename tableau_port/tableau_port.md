@@ -13,7 +13,7 @@
 ![](Population_animation.png)
 
 
-#### This is a clustering Visualization. I made 3 different clusters based on 3 different performance. Orange ones has higher growth rate for store in US. And this assist managers to make decision that which store should be invest more and which store should be invest less.
+#### This is a clustering Visualization. I made 3 different clusters based on 3 different performance. Blue ones has higher growth rate for store in US. And this assist managers to make decision that which store should be invest more and which store should be invest less.
 
 ![](Cluster_combination.png)
 
