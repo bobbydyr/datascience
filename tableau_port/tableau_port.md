@@ -1,6 +1,7 @@
 # Interesting Tableau Visualizations
 
 (I have done these interesting projects during the online course on Udemy. Learn from a great data scientst instructor Kirill Eremenko from Australia. It is really a fun process learning Tableau and create these beautiful visualizations! And really appreciate any opportunity of practice.)
+
 #### This is a really Interesting tree map and show the profitability of selected startups in Australia. There are 5 sets and 3 parameters. And also tones of calculated fields that make the visualization more flexible.
 ![](Tree_map_show_highest_growth.png)
 
