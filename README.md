@@ -1,4 +1,4 @@
-# Thanks for visiting Bobby's Data Science warehouse.
+# Thanks for visiting Bobby's warehouse.
 A nice journey starts here!
 
 ## Spark Projects:
