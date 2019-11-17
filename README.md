@@ -1,4 +1,5 @@
-# Bobby's Data Science
+# Thanks for visiting Bobby's Data Science warehouse.
+A nice journey starts here!
 
 ## Spark Projects:
 
