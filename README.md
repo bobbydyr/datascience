@@ -1,4 +1,4 @@
-# Bobby's Data Science Info FYI
+# Bobby's Data Science
 
 ## Spark Projects:
 
