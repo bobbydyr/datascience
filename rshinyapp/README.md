@@ -1,20 +1,11 @@
-# Integrated Collision Research
+# Seattle Collision Quick Report Through R ShinyApp
 
 This is a class project for info 201 in University of Washington.
 
-- Link -> [(Seattle Collision Research) Simple Class interactive visualization project made by R Shiny app](https://bobbydyr.shinyapps.io/project-AC2-traffic/)
+- Link to open the ShinyApp-> [(Seattle Collision Quick Report) Simple Class interactive visualization project made by R Shiny app](https://bobbydyr.shinyapps.io/project-AC2-traffic/)
 
 ## Why Are We Interested
-We are interested in this field/domain to better understand the effects of certain variables such as the color of cars, weather, and age of driver on things like fatality of accidents. More specifically we plan to answer the question: Do red cars really get pulled over for traffic violations more often than other color cars?
-
-
-## Existing Projects in the Domain
-**Project #1  
-_SEA Traffic Accident Prediction_**  
-
-This project is a student project that use publicly available and relevant data to identify predictive features and models of car accidents in Seattle, create an automatable data pipeline and build a live app reporting likelihoods.
-
-Link: https://github.com/mnghuang/SEA_traffic_accident_prediction
+We are interested in this field/domain to better understand the effects of certain variables such as the color of cars, weather, and age of driver on things like fatality of accidents. 
 
 
 ## Questions We Hope to Answer
@@ -41,6 +32,3 @@ We can make a graph and see what age area has the greatest pullover rate.
 - This dataset can be used to answer questions referring to the location of the accidents and proportion of fatalities.
 
 - [Data source](https://data.seattle.gov/widgets/vac5-r8kk)
-
-
-)
