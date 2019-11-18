@@ -1,0 +1,12 @@
+name: project-AC2-traffic
+title: project-AC2-traffic
+username:
+account: bobbydyr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 967235
+bundleId: 2133019
+url: https://bobbydyr.shinyapps.io/project-AC2-traffic/
+when: 1559750067.69449
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,83 @@
+---
+title: "Integrated Collision Research"
+author: "Kaylei Holthe, Yuxin Chen, Bobby Deng, Steven Bao"
+date: "May 24, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(rworldmap)
+library(RColorBrewer)
+library(knitr)
+library(lubridate)
+library(stringr)
+library(leaflet)
+library(lintr)
+library(ggmap)
+library(stats)
+library(reshape)
+source("scripts/chart1.R")
+source("scripts/chart2.R")
+source("scripts/chart3.R")
+source("scripts/summary.R")
+source("scripts/table.R")
+
+df_2018 <- read.csv("data/df_2018.csv", stringsAsFactors = F)
+```
+## Introduction
+This is an analysis of Seattle collision data, specifically from 2018. The data
+set includes various details of collisions like places of incidents, people 
+involved and severity of collisions. We are interested in what factors effect 
+collisions the greatest such as time, weather conditions and pedestrian
+involvement.
+
+## Summary of Project
+In 2018 there were `r test$number_crashes` of crashes. There were a total
+of `r test$total_fatalities` fatalities. The type of junction with the most 
+incidents in
+2018 was `r test$most_junction`. The total amount of pedestrians involved in car
+collisions was `r test$ped_injuries`. `r test$most_day_of_week` was the weekday 
+that the most collisions occurred on.
+
+## Summary Table
+```{r make_table(), echo=FALSE}
+make_table(df_2018)
+```
+
+This is a table showing the summary information about all types of collisions in 
+Seattle area in 2018 sorted by the number of total cases.
+It contains information of the number of people in 
+different levels of injuries or even fatality. We include this table in order 
+to provide clear information on the frequency of each type of collision and its 
+severity from the casualties.
+
+## Map of Collisions
+```{r map_fun(), echo = FALSE, message = FALSE}
+map_fun(df_2018)
+```
+
+This is a map showing all traffic accidents in the chosen year. And we can see 
+that accidents most happen in downtown area. From the map, we can see the 
+distribution and the propensity of traffic accidents. We include this map in 
+order to give a basic sense about how accidents are distributed in Seattle 
+around 2018.
+
+## Pedestrian and Cyclist Involvement
+```{r cyclists_map(), echo = FALSE}
+ped_cycle_plot(df_2018)
+```
+
+This map visualizes the number of pedestrians and cyclists involved in Seattle 
+car collisions at different times of day.
+
+## Relationships Between Weather Conditions and Fatalities
+```{r pie_chart_fun(), echo = FALSE}
+pie_chart_fun(df_2018)
+```
+
+This pie chart shows the fatalities in different weather conditions in Seattle 
+car collisions. From the chart we can see that in "clear or partly cloudy" and 
+"Raining" conditions had the largest amount of fatalities.

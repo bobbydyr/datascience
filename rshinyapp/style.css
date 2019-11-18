@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Oswald&display=swap");
+
+p {
+  font-family: Montserrat, sans-serif;
+  margin-bottom: 2rem;
+}
+
+.main {
+  margin: 0 5rem 5rem;
+}
+
+.navbar {
+  background-color: white;
+  border-bottom: 1px solid #f4f4f4;
+}
+
+li.active a {
+  border-bottom: 3px solid #ffa500;
+  background-color: white !important;
+  font-family: Montserrat, sans-serif;
+}
+
+.navbar-brand li {
+  font-family: Montserrat, sans-serif;
+}
+
+.navbar-brand {
+  color: #272727 !important;
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: Oswald, sans-serif;
+}
+
+.map-panel > * {
+  margin-bottom: 1rem;
+}
+
+.well {
+   box-shadow: 0 0.6rem 1.4rem rgba(0,0,0,.05), 0 0.15rem 1rem rgba(0,0,0,.2);
+   background-color: white !important;
+   border: none !important;
+}
+
+.tab-title {
+  margin-bottom: 2rem;
+}
+
+.image {
+  display: block;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+figure {
+  margin: 2rem 0;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: grey;
+  text-align: center;
+}
+
+.con-list li {
+  margin-bottom: 1rem;
+}
