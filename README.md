@@ -5,7 +5,7 @@ A nice journey starts here!
 
 ## 1. Spark Projects:
 
-  ### 1.1 San Francisco Crime Data Analysis And Modeling:
+  ### 1.1 Spark Integrated Crime Data Analysis And Modeling:
    - Spark, Spark SQL, DataFrame, Data Clean, Visualization, Clustering, Time Series.
    - https://github.com/bobbydyr/sfcrime
 
