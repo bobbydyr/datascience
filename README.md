@@ -15,9 +15,10 @@ A nice journey starts here!
   - Machine Learning Modeling, Feature Engineering, Model Selection and Evaluation, Ensemble Learning.
   - https://github.com/bobbydyr/userchurn
 
-## 2. Visualizations in Tableau
+## 3. Visualizations
+    ### 3.1 Tableau
   - [Interesting Tableau Visualizations](tableau_port/tableau_port.md)
 
-## 3. R Studio Shiny App (Interactive Visualization)
+    ### 3.2 R Studio Shiny App (Interactive Visualization)
 
   - https://github.com/bobbydyr/datascience/tree/master/rshinyapp
