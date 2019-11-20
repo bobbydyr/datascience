@@ -11,6 +11,9 @@ A nice journey starts here!
 
 ## 2. Machine Learning:
 
+### 2.1 Integrated Phone Service User Churn Prediction 
+  - Machine Learning Modeling, Feature Engineering, Model Selection and Evaluation, Ensemble Learning.
+  - https://github.com/bobbydyr/userchurn
 
 ## 2. Visualizations in Tableau
   - [Interesting Tableau Visualizations](tableau_port/tableau_port.md)
