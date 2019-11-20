@@ -16,7 +16,7 @@ A nice journey starts here!
   - https://github.com/bobbydyr/userchurn
 
 ## 3. Visualizations
-    ### 3.1 Tableau
+   ### 3.1 Tableau
   - [Interesting Tableau Visualizations](tableau_port/tableau_port.md)
 
     ### 3.2 R Studio Shiny App (Interactive Visualization)
