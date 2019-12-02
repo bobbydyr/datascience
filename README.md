@@ -14,6 +14,10 @@ A nice journey starts here!
   ### 2.1 Integrated Phone Service User Churn Prediction 
    - Machine Learning Modeling, Feature Engineering, Model Selection and Evaluation, Ensemble Learning.
    - https://github.com/bobbydyr/userchurn
+   
+  ### 2.2 Product Review Topic Modeling
+   - Clustering the document and identify the topic. Data from on of the biggest eCommerce platform.
+   - https://github.com/bobbydyr/simple_nlp_topic_modeling
 
 ## 3. Visualizations
   ### 3.1 Tableau
