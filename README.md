@@ -3,13 +3,13 @@ Thanks so much for visiting my data warehouse, I fall in love with data science 
 
 A nice journey starts here!
 
-## 1. Spark Projects:
+# 1. Spark Projects:
 
   ### 1.1 Spark Integrated Crime Data Analysis And Modeling:
    - Spark, Spark SQL, DataFrame, Data Clean, Visualization, Clustering, Time Series.
    - https://github.com/bobbydyr/sfcrime
 
-## 2. Machine Learning:
+# 2. Machine Learning:
 
   ### 2.1 Integrated Phone Service User Churn Prediction 
    - Machine Learning Modeling, Feature Engineering, Model Selection and Evaluation, Ensemble Learning.
@@ -19,7 +19,7 @@ A nice journey starts here!
    - Clustering the document and identify the topic. Data from on of the biggest eCommerce platform.
    - https://github.com/bobbydyr/simple_nlp_topic_modeling
 
-## 3. Visualizations
+# 3. Visualizations
   ### 3.1 Tableau
    - [Interesting Tableau Visualizations](tableau_port/tableau_port.md)
 
