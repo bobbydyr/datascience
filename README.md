@@ -21,7 +21,7 @@ A nice journey starts here!
 
 # 3. Visualizations
   ### 3.1 Tableau
-   - [Interesting Tableau Visualizations](tableau_port/tableau_port.md)
+   - [Interesting Tableau Visualizations](tableau_port/README.md)
 
   ### 3.2 R Studio Shiny App (Interactive Visualization)
 
