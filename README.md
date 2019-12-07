@@ -31,3 +31,5 @@ A nice journey starts here!
   ### 3.2 R Studio Shiny App (Interactive Visualization)
 
    - https://github.com/bobbydyr/datascience/tree/master/rshinyapp
+
+# More Interesting Projects on the way!
