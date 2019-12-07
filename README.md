@@ -18,7 +18,7 @@ A nice journey starts here!
   ### 2.2 Airbnb listing price prediction with only numpy
    - Develop mutiple linear model and cross validation, compute scores by hand without any frameworks. 
    - Heavily focused on feature engineering, and testing models.
-   - 
+   - https://github.com/bobbydyr/airbnb_predict
   
   ### 2.3 Product Review Topic Modeling
    - Clustering the document and identify the topic. Data from on of the biggest eCommerce platform.
