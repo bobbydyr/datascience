@@ -15,7 +15,12 @@ A nice journey starts here!
    - Machine Learning Modeling, Feature Engineering, Model Selection and Evaluation, Ensemble Learning.
    - https://github.com/bobbydyr/userchurn
    
-  ### 2.2 Product Review Topic Modeling
+  ### 2.2 Airbnb listing price prediction with only numpy
+   - Develop mutiple linear model and cross validation, compute scores by hand without any frameworks. 
+   - Heavily focused on feature engineering, and testing models.
+   - 
+  
+  ### 2.3 Product Review Topic Modeling
    - Clustering the document and identify the topic. Data from on of the biggest eCommerce platform.
    - https://github.com/bobbydyr/simple_nlp_topic_modeling
 
