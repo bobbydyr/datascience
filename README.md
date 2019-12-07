@@ -1,5 +1,5 @@
 # Thanks for visiting Bobby's warehouse.
-Thanks so much for visiting my data warehouse, I fall in love with data science 2 years ago and it is really amazing.
+Thanks so much for visiting my data warehouse, I fall in love with data science 2 years ago and it has been a truly amazing story.
 
 A nice journey starts here!
 
