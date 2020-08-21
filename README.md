@@ -8,7 +8,7 @@ A nice journey starts here!
   ### 1.1 Spark Integrated Crime Data Analysis And Modeling:
    - Spark, Spark SQL, DataFrame, Data Clean, Visualization, Clustering, Time Series.
    - https://github.com/bobbydyr/sfcrime
-
+ 
 # 2. Machine Learning:
  
   ### 2.1 Integrated Phone Service User Churn Prediction 
